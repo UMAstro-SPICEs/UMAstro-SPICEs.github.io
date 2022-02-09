@@ -2,3 +2,6 @@ data/*
 *.dat
 *.pdf
 *.fits
+*~
+__*
+.ipynb*
