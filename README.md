@@ -1,6 +1,6 @@
-UMAstro-SPICEs.github.io
 
-# maxi-lcs
+
+# UMAstro-SPICEs.github.io
 
 Scripts I use to play with MAXI light curves
 
